@@ -1,7 +1,3 @@
-Name: Akash Rajendra Gujarathi
-Section: CS-571-01 	
-Email: agujara1@binghamton.edu
-
 File Details:
 1] calc.l contains flex program.
 2] calc.c contains bison program.
